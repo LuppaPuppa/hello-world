@@ -3,7 +3,6 @@ My first thing
 
 
 + # About me
-+
 + My name is Anton Johansson
 + I´m 19 years old 
 + I live in Härnösand
